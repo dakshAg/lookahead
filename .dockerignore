@@ -1,0 +1,8 @@
+node_modules
+server/.env
+yarn.lock
+
+dist/
+client/build/
+server/test
+client/tests
