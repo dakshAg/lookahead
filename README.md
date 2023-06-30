@@ -16,7 +16,7 @@ out of their semester.
 - Customisable timetable (drag and drop)
 - Most importantly: dark mode
 
-Published at: https://lookahead.rohyl.io/
+Published at: https://theepiccowoflife-lookahead.herokuapp.com/
 
 ## Installation Instructions
 
